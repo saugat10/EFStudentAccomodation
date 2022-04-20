@@ -5804,11 +5804,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sauga\\source\\repos\\EFStudentAccomodation\\EFStudentAccomodation\\EFStudentAccomodation.csproj",
+      "projectUniqueName": "C:\\Users\\sauga\\Source\\Repos\\EFStudentAccomodation\\EFStudentAccomodation\\EFStudentAccomodation\\EFStudentAccomodation.csproj",
       "projectName": "EFStudentAccomodation",
-      "projectPath": "C:\\Users\\sauga\\source\\repos\\EFStudentAccomodation\\EFStudentAccomodation\\EFStudentAccomodation.csproj",
+      "projectPath": "C:\\Users\\sauga\\Source\\Repos\\EFStudentAccomodation\\EFStudentAccomodation\\EFStudentAccomodation\\EFStudentAccomodation.csproj",
       "packagesPath": "C:\\Users\\sauga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sauga\\source\\repos\\EFStudentAccomodation\\EFStudentAccomodation\\obj\\",
+      "outputPath": "C:\\Users\\sauga\\Source\\Repos\\EFStudentAccomodation\\EFStudentAccomodation\\EFStudentAccomodation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

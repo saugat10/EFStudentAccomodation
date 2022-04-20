@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "igqKPuAYisUK/GHSLJmWQ1QA4fwOhg18MLn/VPqa3AuD/Mkw6VXCNhtF7UH/KEIsF83gRZAqQ9tPfUOjSCkb/g==",
+  "dgSpecHash": "IvFp28r03+X+wCXcvc6EhI6qbPvYkM+xyObiRJ5PNsynQlR2K7SjOuw14wwroes1RvlIJYjIm7cUVMrhiA24lQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sauga\\source\\repos\\EFStudentAccomodation\\EFStudentAccomodation\\EFStudentAccomodation.csproj",
+  "projectFilePath": "C:\\Users\\sauga\\Source\\Repos\\EFStudentAccomodation\\EFStudentAccomodation\\EFStudentAccomodation\\EFStudentAccomodation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sauga\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\sauga\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
